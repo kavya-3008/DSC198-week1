@@ -1,0 +1,8 @@
+ev.csv
+ev.parquet
+events/
+airflow.db
+airflow.cfg
+logs/
+__pycache__/
+.DS_Store
